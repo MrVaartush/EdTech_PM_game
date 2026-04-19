@@ -17,4 +17,5 @@ Demonstration of MVP of educational game for project managers. Inspired by card 
 - Друга  – це тести з запитаннями про управління проєктами. Через певний, наперед визначений грою, проміжок часу гравцю задається питання, пов’язане з управлінням проєктами. Залежно від відповіді гравець отримає позитивний або негативний ефект для гри.
 
 //Код проєкту є власністю/внутрішнім. Детальна демонстрація коду доступна за запитом під час технічної співбесіди.
+
 //Project code is proprietary/internal. Detailed code demonstration is available upon request during a technical interview.
